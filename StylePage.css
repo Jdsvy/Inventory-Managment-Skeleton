@@ -1,0 +1,54 @@
+.product, .price {
+  padding: 0;
+  height: 30px;
+  position: relative;
+  left: 0;
+  outline: none;
+  border: .1px solid #cdcdcd;
+  border-color: black;
+  background-color: white;
+  font-size: 16px;
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+td,th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-active
+{
+  background-color: rgb(112, 105, 105);
+  color:white;
+}
+
+td,th {
+  text-align: center;
+}
+
+.OrderNumber{
+  padding: 10px 50px 15px 20px;
+}
+.row {
+  padding: 10px 50px 15px 20px;
+  font-weight: bold;
+  display: block;
+  width: 150px;
+  float: left;
+  }
+
+  
